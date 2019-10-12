@@ -1,0 +1,28 @@
+{
+  "name": "@responsekit/core",
+  "version": "1.0.0",
+  "description": "Simple helpers to translate successful or unsuccessful business logic responses into appropriate controller responses.",
+  "main": "dist/index.js",
+  "scripts": {
+    "tsc": "tsc -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRCraziestTaxi/responsekit.git"
+  },
+  "author": "IRCraziestTaxi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IRCraziestTaxi/responsekit/issues"
+  },
+  "homepage": "https://github.com/IRCraziestTaxi/responsekit#readme",
+  "devDependencies": {
+    "tslint": "^5.20.0",
+    "typescript": "~3.6.4"
+  },
+  "files": [
+    "LICENSE",
+    "package.json",
+    "dist/**"
+  ]
+}
