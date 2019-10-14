@@ -1,4 +1,4 @@
-# responsekit
+# @responsekit/core
 Simple helpers to translate successful or unsuccessful business logic responses into appropriate controller responses.
 
 ## Install
@@ -50,4 +50,4 @@ if (result instanceof Rejection) {
 ```
 
 ## Other helpful libraries
-To achieve the functionality above using `tsmediator` and/or `express`, check out the `@responsekit/tsmediator` and `@responsekit/express` packages.
+To achieve the functionality above using `tsmediator` and/or `express`, check out the [https://github.com/IRCraziestTaxi/responsekit-tsmediator](`@responsekit/tsmediator`) and [https://github.com/IRCraziestTaxi/responsekit-express](`@responsekit/express`) packages.
