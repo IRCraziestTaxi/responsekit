@@ -51,3 +51,5 @@ if (result instanceof Rejection) {
 
 ## Other helpful libraries
 To achieve the functionality above using `tsmediator` and/or `express`, check out the [`@responsekit/tsmediator`](https://github.com/IRCraziestTaxi/responsekit-tsmediator) and [`@responsekit/express`](https://github.com/IRCraziestTaxi/responsekit-express) packages.
+
+For Nest.JS, check out [`@responsekit/nestjs`](https://github.com/IRCraziestTaxi/responsekit-nestjs).
